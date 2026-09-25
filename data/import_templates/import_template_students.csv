@@ -1,0 +1,5 @@
+institutional_identifier,full_name,program_code,batch_name,admission_year,status
+SYN-2024-CSE-0001,Synthetic Student 001,BT-CSE,BT-CSE Batch 2024-2028,2024,ACTIVE
+SYN-2024-CSE-0002,Synthetic Student 002,BT-CSE,BT-CSE Batch 2024-2028,2024,ACTIVE
+SYN-2024-ECE-0001,Synthetic Student 003,BT-ECE,BT-ECE Batch 2024-2028,2024,ACTIVE
+SYN-2024-MECH-0001,Synthetic Student 004,BT-MECH,BT-MECH Batch 2024-2028,2024,ACTIVE

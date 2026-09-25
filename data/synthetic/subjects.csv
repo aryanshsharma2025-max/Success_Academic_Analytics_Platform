@@ -1,0 +1,37 @@
+subject_id,subject_code,subject_name,credits
+f6285d4a-2151-599b-87b3-7cb178613bc4,CS101,Programming in C,4.0
+8c4f616f-3d09-5ddd-8140-15eb4b6e730b,CS102,Digital Logic Design,4.0
+fea4b898-accc-5990-bcb6-f0a588b941fc,CS201,Object Oriented Programming in C++,4.0
+7c862c81-c223-5923-8988-8c5e672458c0,CS202,Data Structures & Algorithms,4.0
+4df4e76f-0baf-57cf-b30c-edf8c5bb683d,CS301,Database Management Systems,4.0
+de0392a9-88f2-5b41-b3a2-61d3e579e55e,CS302,Discrete Mathematics,3.5
+792c67c6-b728-52dc-bf4b-6fd50f3962ac,CS303,Computer Organization & Architecture,4.0
+9744b434-236c-5ed9-9aad-3254358a13c4,CS304,Digital Electronics & Microprocessors,3.5
+243a1b30-77d2-5bf9-bc8c-09479e146759,CS401,Operating Systems,4.0
+49fd226f-6abc-58a7-91ff-b2cbf59231b2,CS402,Theory of Computation,4.0
+4fd96d9e-e459-5632-9432-57e1cb21c4ca,CS501,Design and Analysis of Algorithms,4.0
+da653154-a02e-5683-9d5a-d80e243b8a8a,CS502,Computer Networks,4.0
+bdc010a0-b91f-598e-989b-e4c4ffb1d22b,CS601,Software Engineering & Testing,3.5
+40a45580-ee94-5e4e-b8c4-d75265361417,CS602,Compiler Design,4.0
+fb50eee2-6019-5209-8416-c421ac23698f,CS701,Artificial Intelligence & Machine Learning,4.0
+b35f5fba-6489-5458-9628-1a7fe7b36cbf,CS801,Major Project & Capstone Defense,6.0
+e2452d03-ee1c-5624-b6da-a7ee4fb305cf,EC101,Basic Electrical & Electronics Engg,4.0
+2cf18ed7-a523-56b1-8fff-c494ecb9b923,EC102,Network Analysis & Synthesis,4.0
+2f15c139-84d0-5bcb-ba78-a37d9285fc9a,EC201,Analog Electronic Circuits,4.0
+82251139-918c-5b82-b904-7e013ca6df1d,EC202,Signals and Systems,4.0
+8172ce56-c641-5f8b-a7a3-88a85bc040ca,EC301,Electromagnetic Fields & Waves,3.5
+b70af55b-2c1f-55bb-907f-25bb9e516223,EC302,Analog Communication Systems,4.0
+02ed2c9e-fdb7-5ccf-b815-b9b9d38e73e8,EC401,Digital Signal Processing,4.0
+99814155-2087-5bab-9312-7c3b486a1417,EC501,Microcontrollers & Embedded Systems,4.0
+a8c62bab-0f58-59e4-bf5e-2a29a0c8f011,EC601,VLSI Design & Technology,4.0
+77acd49d-00d8-5e99-a987-962430b2122f,EC701,Wireless & Mobile Communication,3.5
+8bdc45ae-0095-53c2-b74b-409a6f475d45,ME101,Engineering Mechanics,4.0
+2468cf0a-fbfb-5d94-8a6e-4aecaedf101b,ME102,Engineering Graphics & Design,3.5
+83205ddb-6b79-5748-90b7-d6f8a4c54e1b,ME201,Thermodynamics,4.0
+10e57b56-8c23-537c-a957-df955393c887,ME202,Material Science & Metallurgy,3.5
+8e91fdab-429d-5db0-ba94-4588a8955b04,ME301,Fluid Mechanics & Hydraulic Machinery,4.0
+465fc7f2-a11a-51cb-a61d-0198a211a674,ME302,Strength of Materials,4.0
+a7e85a90-c86e-5d7d-906b-333c27d33e3b,ME401,Kinematics & Dynamics of Machines,4.0
+831af290-2271-5b01-b3be-4fbfb3e71240,ME501,Heat & Mass Transfer,4.0
+471dff0c-eb64-5076-a53c-b8cde3bb887b,ME601,Manufacturing Technology & Metrology,4.0
+918c9ebc-8a30-50ee-a6db-bd2e92b7e47c,ME701,Automobile Engineering & Dynamics,3.5
